@@ -1,5 +1,5 @@
 # Bus_ticket_booking_system
-A mini project in C for bus ticket booking and cancellation\
+A mini project in C for bus ticket booking and cancellation.\
 It includes login,sign up and following functionalities:
 
       1) View buses list
